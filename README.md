@@ -1,6 +1,6 @@
 # Bandit-Based Advertisement Selection API
 
-A conceptual FastAPI service implementing multi-armed bandit algorithms for personalized advertisement selection. Uses Thompson Sampling with Beta-Bernoulli bandits to optimize ad performance through exploration-exploitation balance.
+A conceptual **Ad Selection Framework** implementing multi-armed bandit algorithms for personalized advertisement selection. Uses Thompson Sampling with Beta-Bernoulli bandits to optimize ad performance through exploration-exploitation balance.
 
 ## 🎯 Features
 
