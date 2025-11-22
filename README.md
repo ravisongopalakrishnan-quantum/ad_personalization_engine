@@ -256,4 +256,4 @@ Ravi G - Agentic AI Enthusiast
 ## 🙏 Acknowledgments
 
 - Thompson Sampling algorithm based on Bayesian optimization principles
-- Inspired by production ad-tech systems using multi-armed bandits
+- Inspired by conceptual ad-tech systems using multi-armed bandits
